@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'inpin xuanyihei';
+    src: url('inpinxuanyihei.eot');
+    src: url('inpinxuanyihei.eot?#iefix') format('embedded-opentype'),
+        url('inpinxuanyihei.woff2') format('woff2'),
+        url('inpinxuanyihei.woff') format('woff'),
+        url('inpinxuanyihei.ttf') format('truetype'),
+        url('inpinxuanyihei.svg#inpinxuanyihei') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
